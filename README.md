@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2022.4.6**
+**更新时间：2022.4.7**
 
 ================================================================
 
@@ -11,7 +11,7 @@
 
 ##### springcloud
 
-##### netty
+##### [netty](https://github.com/netty/netty)
 
 #### 响应式编程
 
@@ -37,27 +37,27 @@
 
 #### 注册中心
 
-##### nacos
+##### [nacos](https://github.com/alibaba/nacos)
 
-##### zookeeper
+##### [zookeeper](https://github.com/apache/zookeeper)
 
 #### 链路追踪
 
-##### skywalking
+##### [skywalking](https://github.com/apache/skywalking)
 
 #### 限流降级
 
-##### sentinel
+##### [sentinel](https://github.com/alibaba/Sentinel)
 
 ##### [hystrix](https://github.com/Netflix/Hystrix)
 
 #### 分布式事务
 
-##### seata
+##### [seata](https://github.com/seata/seata)
 
 ### 搜索
 
-##### elasticSearch
+##### [elasticSearch](https://github.com/elastic/elasticsearch)
 
 ### 配置中心
 
@@ -65,7 +65,7 @@
 
 ### 缓存
 
-##### redis
+##### [redis](https://github.com/redis/redis)
 
 ### 数据库
 
@@ -73,21 +73,27 @@
 
 ##### mongdb
 
+##### [rocksdb](https://github.com/facebook/rocksdb)
+
+##### [clickhouse](https://github.com/ClickHouse/ClickHouse)
+
 ### 数据库中间件
 
 ##### mybatis
 
-##### mybatis-plus
+##### [mybatis-plus](https://github.com/baomidou/mybatis-plus)
 
-##### spring-data-jpa
+##### [spring-data-jpa](https://github.com/spring-projects/spring-data-jpa)
 
 ### 消息队列
 
-##### rocketmq
+##### [rocketmq](https://github.com/apache/rocketmq)
 
-##### rabbitmq
+##### [rabbitmq](https://github.com/rabbitmq/rabbitmq-server)
 
-##### kafka
+##### [kafka](https://github.com/apache/kafka)
+
+##### [pulsar](https://github.com/apache/pulsar)
 
 ### 监控
 
@@ -101,3 +107,16 @@
 
 ### 运维
 
+### 测试
+
+##### [sonarqube](https://github.com/SonarSource/sonarqube)
+
+##### [jacoco](https://github.com/jacoco/jacoco)
+
+##### [jmeter](https://github.com/apache/jmeter)
+
+### 工具
+
+##### [yapi](https://github.com/YMFE/yapi)
+
+##### postman
