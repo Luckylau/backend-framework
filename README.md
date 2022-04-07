@@ -87,6 +87,8 @@
 
 ##### [shardingsphere](https://github.com/apache/shardingsphere)
 
+##### [canal](https://github.com/alibaba/canal)
+
 ### 消息队列
 
 ##### [rocketmq](https://github.com/apache/rocketmq)
