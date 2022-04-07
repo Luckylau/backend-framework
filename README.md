@@ -85,6 +85,8 @@
 
 ##### [spring-data-jpa](https://github.com/spring-projects/spring-data-jpa)
 
+##### [shardingsphere](https://github.com/apache/shardingsphere)
+
 ### 消息队列
 
 ##### [rocketmq](https://github.com/apache/rocketmq)
