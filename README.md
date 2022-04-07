@@ -77,6 +77,8 @@
 
 ##### [clickhouse](https://github.com/ClickHouse/ClickHouse)
 
+##### **[tdengine](https://github.com/taosdata/TDengine)**
+
 ### 数据库中间件
 
 ##### mybatis
