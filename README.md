@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2022.4.7**
+**更新时间：2022.6.26**
 
 ================================================================
 
@@ -66,6 +66,12 @@
 ### 缓存
 
 ##### [redis](https://github.com/redis/redis)
+
+### 本地缓存
+
+##### [guava](https://github.com/google/guava)
+
+##### [caffeine](https://github.com/ben-manes/caffeine)
 
 ### 数据库
 
