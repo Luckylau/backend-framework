@@ -85,6 +85,8 @@
 
 ##### **[tdengine](https://github.com/taosdata/TDengine)**
 
+##### [doris](https://github.com/apache/doris)
+
 ### 数据库中间件
 
 ##### mybatis
