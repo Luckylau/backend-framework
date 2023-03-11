@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2023.2.12**
+**更新时间：2023.3.11**
 
 ================================================================
 
@@ -122,6 +122,8 @@
 ##### [p6spy](https://github.com/p6spy/p6spy)
 
 ##### [prometheus + vmalert](https://github.com/prometheus)
+
+##### [hertzbeat](https://github.com/dromara/hertzbeat)
 
 ### 诊断
 
