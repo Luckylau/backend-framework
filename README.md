@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2023.4.19**
+**更新时间：2023.5.11**
 
 ================================================================
 
@@ -155,5 +155,13 @@
 
 ##### postman
 
-##### [PrettyZoo](https://github.com/vran-dev/PrettyZoo)
+##### [prettyZoo](https://github.com/vran-dev/PrettyZoo)
+
+### 规则引擎
+
+##### [easy-rules](https://github.com/j-easy/easy-rules)
+
+##### [qLExpress](https://github.com/alibaba/QLExpress)
+
+
 
