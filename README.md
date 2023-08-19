@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2023.5.11**
+**更新时间：2023.8.19**
 
 ================================================================
 
@@ -131,6 +131,8 @@
 
 ##### [arthas](https://github.com/alibaba/arthas)
 
+##### [bistoury](https://github.com/qunarcorp/bistoury)
+
 ### 运维
 
 **[flume](https://github.com/apache/flume)**
@@ -150,6 +152,8 @@
 ##### [metersphere](https://github.com/metersphere/metersphere)
 
 ##### [goreplay](https://github.com/buger/goreplay)
+
+##### [chaosblade](https://github.com/chaosblade-io/chaosblade)
 
 ### 工具
 
