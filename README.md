@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2023.8.19**
+**更新时间：2024.1.21**
 
 ================================================================
 
@@ -84,16 +84,6 @@
 ##### mongdb
 
 ##### [rocksdb](https://github.com/facebook/rocksdb)
-
-##### [clickhouse](https://github.com/ClickHouse/ClickHouse)
-
-##### **[tdengine](https://github.com/taosdata/TDengine)**
-
-##### [doris](https://github.com/apache/doris)
-
-##### [iceberg](https://github.com/apache/iceberg)
-
-##### [alluxio](https://github.com/Alluxio/alluxio)
 
 ### 数据库中间件
 
