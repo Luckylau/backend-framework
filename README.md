@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2024.5.30**
+**更新时间：2024.10.26**
 
 ================================================================
 
@@ -164,6 +164,8 @@
 ##### [goreplay](https://github.com/buger/goreplay)
 
 ##### [chaosblade](https://github.com/chaosblade-io/chaosblade)
+
+##### [playwright](https://github.com/microsoft/playwright)
 
 ### 工具
 
