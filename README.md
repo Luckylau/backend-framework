@@ -1,7 +1,7 @@
 # backend-framework
 **常用开发框架和中间件**
 
-**更新时间：2024.10.26**
+**更新时间：2025.02.23**
 
 ================================================================
 
@@ -58,6 +58,8 @@
 ##### [sentinel](https://github.com/alibaba/Sentinel)
 
 ##### [hystrix](https://github.com/Netflix/Hystrix)
+
+##### [resilience4j](https://github.com/resilience4j/resilience4j.git)
 
 #### 分布式事务
 
